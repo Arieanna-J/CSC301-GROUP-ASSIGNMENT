@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\apply.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\apply.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\adminmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\adminmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\studentmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\studentmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\studentmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\studentmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\adminmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\adminmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|c:\\users\\arieanna\\source\\repos\\csc301_assignment\\csc301_assignment\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71065822-930A-4EB5-AA8F-AD3D5DD26694}|CSC301_Assignment\\CSC301_Assignment.vbproj|solutionrelative:csc301_assignment\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Payment.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\Payment.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Payment.vb [Design]",
+              "RelativeToolTip": "CSC301_Assignment\\Payment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T11:40:24.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apply.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Apply.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\Apply.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Apply.vb [Design]",
+              "RelativeToolTip": "CSC301_Assignment\\Apply.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T11:38:38.501Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Login.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\Login.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Login.vb*",
+              "RelativeToolTip": "CSC301_Assignment\\Login.vb*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwBgAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:00:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.vb",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\SignUp.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\SignUp.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\SignUp.vb",
+              "RelativeToolTip": "CSC301_Assignment\\SignUp.vb",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:31:16.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\SignUp.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\SignUp.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\SignUp.vb [Design]",
+              "RelativeToolTip": "CSC301_Assignment\\SignUp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:31:13.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentMenu.vb",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\StudentMenu.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\StudentMenu.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\StudentMenu.vb",
+              "RelativeToolTip": "CSC301_Assignment\\StudentMenu.vb",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:19:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentMenu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\StudentMenu.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\StudentMenu.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\StudentMenu.vb [Design]",
+              "RelativeToolTip": "CSC301_Assignment\\StudentMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:19:06.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminMenu.vb",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\AdminMenu.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\AdminMenu.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\AdminMenu.vb",
+              "RelativeToolTip": "CSC301_Assignment\\AdminMenu.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAkAAAC/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:02:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMenu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\AdminMenu.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\AdminMenu.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\AdminMenu.vb [Design]",
+              "RelativeToolTip": "CSC301_Assignment\\AdminMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:01:55.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Login.vb",
+              "RelativeDocumentMoniker": "CSC301_Assignment\\Login.vb",
+              "ToolTip": "C:\\Users\\Arieanna\\source\\repos\\CSC301_Assignment\\CSC301_Assignment\\Login.vb [Design]*",
+              "RelativeToolTip": "CSC301_Assignment\\Login.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-15T09:00:08.179Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
